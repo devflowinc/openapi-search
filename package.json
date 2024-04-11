@@ -1,0 +1,14 @@
+{
+  "name": "openapi-search",
+  "module": "parse-and-upload.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@devflowinc/trieve-js-ts-client": "^0.6.2"
+  }
+}
